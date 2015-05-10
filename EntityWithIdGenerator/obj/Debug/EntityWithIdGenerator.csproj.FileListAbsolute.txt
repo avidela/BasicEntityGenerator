@@ -1,0 +1,6 @@
+c:\users\andres\documents\visual studio 2013\Projects\EntityWithIdGenerator\EntityWithIdGenerator\bin\Debug\EntityWithIdGenerator.exe.config
+c:\users\andres\documents\visual studio 2013\Projects\EntityWithIdGenerator\EntityWithIdGenerator\obj\Debug\EntityWithIdGenerator.csprojResolveAssemblyReference.cache
+c:\users\andres\documents\visual studio 2013\Projects\EntityWithIdGenerator\EntityWithIdGenerator\bin\Debug\EntityWithIdGenerator.exe
+c:\users\andres\documents\visual studio 2013\Projects\EntityWithIdGenerator\EntityWithIdGenerator\bin\Debug\EntityWithIdGenerator.pdb
+c:\users\andres\documents\visual studio 2013\Projects\EntityWithIdGenerator\EntityWithIdGenerator\obj\Debug\EntityWithIdGenerator.exe
+c:\users\andres\documents\visual studio 2013\Projects\EntityWithIdGenerator\EntityWithIdGenerator\obj\Debug\EntityWithIdGenerator.pdb
